@@ -1,0 +1,62 @@
+1. Quais são as 4 principais categorias de aplicações de e-commerce? Faça a definição das
+mesmas, com suas palavras.
+B2C – Empresas que vendem diretamente para com consumidores finais ou pessoas físicas. 
+B2B – Empregas que vendem diretamente para outras empresas. 
+C2C – Pessoas físicas que vendem diretamente para pessoas físicas.
+B2G – Empresas que vendem diretamente para Governo. 
+
+2. Quais funcionalidades estão presentes no modelo vitrine online?
+Carrinhos de compras
+Inclusão e exclusão de produtos
+Alteração da quantidade
+
+3. De maneira geral, como funciona a tecnologia de carrinho de compras?
+Virtualmente o cliente escolhe os produtos dentro da loja virtual e inclui ou retira produtos podendo optar também por alterar a quantidade dos produtos escolhidos. 
+
+4. Quais são as vantagens de uma loja virtual possuir uma boa gerência dos dados dos clientes?
+A vantagem de uma boa gerencia dos dados dos clientes, permitem que após realização da primeira compra, o cliente ao retornar ao site para realizar uma nova compra, não há necessidade de registrar novamente os dados: como número do cartão de crédito, endereço de entrega, histórico das últimas compras entre outros, agilizando o processo de compra. 
+
+5. Como uma loja virtual pode garantir o envio dos produtos no prazo estipulado?
+Gerindo os dados dos clientes e garantindo que o endereço do cliente esteja em conformidade com o site dos correios, além é claro ter um processo de aprovação e confirmação dos pagamentos ágil. 
+
+6. Como é o funcionamento básico do modelo de Leilão?
+O cliente escolhe o produto em um determinado site ex. Mercado Livre, e dá o lance no produto desejado, podendo também o mesmo anunciar o produto e definir o menor preço para o produto e estipular uma data para encerramento dos lances. 
+
+7. O modelo de Leilão se aplica somente a C2C? Justifique.
+Não, pois no leilão tanto pessoas físicas quanto jurídicas podem dar lances, desde que sejam cadastradas no site. 
+
+8. Como funciona o leilão reverso?
+A empresas divulgam a necessidade de compra de um determinado produto e entram em contato com os fornecedores, para verificar qual oferece o melhor preço, muito semelhante as licitações, que neste caso ganha quem tiver o menor/melhor preço. 
+
+9. Qual a vantagem do modelo portal em relação a apenas uma loja virtual?
+No portal existem diversas lojas virtuais, o que dá ao cliente mais opções de produtos relacionadas ao portal. 
+
+
+10. Qual o diferencial oferecido pelo modelo Faça seu Preço?
+Neste modelo o preço é estipulado pelo consumidor e neste caso é feita uma análise, podendo ser ou não acatada pelo vendedor, tendo é claro o comprometimento da compra, por parte do consumidor se o preço for acatado, sendo a venda concretizada.
+ 
+11. No modelo de comparação de preços, o que deve ser levado em consideração além do menor preço? Justifique. 
+As avaliações os selos de loja certificada, são um termômetro e que testifica a qualidade e a veracidade dos produtos informados no site, sendo que outros consumidores podem informar se suas expectativas foram atendidas pontuar itens como prazo de entrega, agilidade no envio dos produtos, qualidade, se as características do produto estão de acordo com as especificações e também recomendar para que outros consumidores possam ser motivados a comprar também. 
+
+12. Como funciona o modelo de Preço sensível à Demanda?
+É o famoso compre X e leve Y, funciona quando o cliente escolhe uma quantidade determinada do produto e pode conseguir desconto ou até outro produto grátis. 
+
+13. Em qual situação o modelo de Troca pode ser interessante a uma empresa?
+Quando há uma necessidade de algum produto por parte de uma das partes da empresa e a outra necessita de liberar espaço ou estoque.
+
+14. Descreva, com suas palavras, o modelo de compras coletivas. Como este modelo gera lucro?
+Como é feita sua divulgação?
+Compras coletivas, ao primeiro momento não geram lucro, neste modelo a ideia é a divulgação do produto ou serviço, o lucro será gerado após a fidelização do cliente a sua divulgação poderá se dar através do boca-a-boca ou através de sites de compras coletivas, como groupon, peixe-urbano entre outros... 
+
+15. O que as lojas virtuais buscam oferecendo vários descontos aos clientes?
+A fidelização e o retorno ao site. 
+
+16. Como as lojas que oferecem serviços gratuitos geram lucro?
+Através da publicidade ou compras nas lojas parceiras. 
+
+17. Quais as vantagens de uma empresa completamente virtual sobre uma empresa de click e cimento? Quais as desvantagens?
+Vantagens são:
+Custo reduzido, não necessidade de um estoque de pronto, praticidade, não necessidade de loja física. 
+
+Desvantagens são: 
+Falta de relacionamento pessoal, equipamentos devem estar disponíveis 24x7. 
